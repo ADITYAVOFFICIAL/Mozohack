@@ -90,7 +90,7 @@ export default function RegisteredDoctors(props) {
         <section className="section container p-4 mt-4">
           <div className="mt-4 mb-4">
             <div className="forms mx-3">
-              <div className="card overflow-auto">
+              <div className="card overflow-auto" style={{borderRadius:"33px"}}>
                 <div className="card-body">
                   <div className="row d-flex align-items-center">
                     <div className="col-xl-4">
