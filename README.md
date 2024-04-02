@@ -10,7 +10,7 @@
     Securely Transforming Healthcare: MediVault's Promise Explained
     <br/>
     <br/>
-    <a href="https://github.com/Sahilopl/MOZOHACK"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ADITYAVOFFICIAL/MOZOHACK"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
     <a href="https://mozohack.vercel.app/">View Demo</a>
